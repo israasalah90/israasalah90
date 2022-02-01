@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @israasalah90
+- 👋 Hi, I’m Israa Salah
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on Data Analysis projects using Python/Python-Oandas
+- 💞️ I’m looking to collaborate on Data Analysis projects using Python/Python-Pandas
 - 📫 israa.salah2017@gmail.com
 - Linkedin: https://www.linkedin.com/in/israa-salahs/
 <!---
